@@ -2,9 +2,9 @@
 
 CRUG and ChiPy Data Science SIG joined together to deliver a hands-on meetup discussing a fundamental aspect in data science: hardware.
 
-
-![](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Images/Hardware_DataScience.png)
-    
+<p align="center">
+<img src="https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Images/Hardware_DataScience.png" width="400px" />
+</p>
 ​
 Whatever your language, at some point the code is processed on Silica and metal. Considering ever growing data sets, what are the implications for working with the standard issue 8gb laptop, and what attributes should you consider in your next computer? Join us for a discussion on the latest in hardware for Data Science to find out!
 
