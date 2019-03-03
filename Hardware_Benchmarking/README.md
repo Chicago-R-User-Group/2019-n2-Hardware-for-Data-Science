@@ -1,20 +1,22 @@
 # Hardware Benchmarking Exploratory Analysis
 
+Below are Parfait Gasana's benchmarking Python and R scripts and results of machine run iterations as well as meetup presented notebooks.
+
 ## Python Notebooks and Scripts
 
-### - [Python Jupyter Notebook](https://raw.githack.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/master/Hardware_Benchmarking/Machine_Test_Notebook_py.html)
-### - [Python Benchmarking Script](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Script.py)
-### - [Python Results](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Results_py.csv)
+- **[Python Jupyter Notebook](https://raw.githack.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/master/Hardware_Benchmarking/Machine_Test_Notebook_py.html)**
+- **[Python Benchmarking Script](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Script.py)**
+- **[Python Results](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Results_py.csv)**
 
 ## R Notebooks and Scripts
 
-### - [R Markdown Notebook](https://raw.githack.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/master/Hardware_Benchmarking/Machine_Test_Notebook_r.nb.html)
-### - [R Benchmarking Script](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Script.R)
-### - [R Results](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Results_r.csv)
+- **[R Markdown Notebook](https://raw.githack.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/master/Hardware_Benchmarking/Machine_Test_Notebook_r.nb.html)**
+- **[R Benchmarking Script](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Script.R)**
+- **[R Results](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Results_r.csv)**
 
-Other Scripts
+## Other Scripts
 
-### - [PowerShell Loop Script](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Runs.ps1)
-### - [Bash Loop Script](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Runs.sh)
+- **[PowerShell Loop Script](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Runs.ps1)**
+- **[Bash Loop Script](https://github.com/Chicago-R-User-Group/2019-n2-Hardware-for-Data-Science/blob/master/Hardware_Benchmarking/Machine_Test_Runs.sh)**
 
 
